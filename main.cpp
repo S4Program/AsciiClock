@@ -66,23 +66,4 @@ int main()
         sleep(1);
         counter[0]++;
     }
-
-
-/*
-   hours[0] = 1;
-   hours[1] = 2;
-
-   minutes[0] = 3;
-   minutes[1] = 0;
-
-   seconds[0] = 4;
-   seconds[1] = 5;
-
-    for(int i = 0; i < rows; i++)
-    {
-        printOut(hours, i, false);
-        printOut(minutes, i, false);
-        printOut(seconds, i, true);
-        cout<<'\n';
-    }*/
 }
